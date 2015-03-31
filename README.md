@@ -8,3 +8,6 @@ For now, made some changes to the casper theme and using that:
     cd themes/casper
     git checkout tweaks
 
+to run locally:
+
+    hugo server --theme=casper
