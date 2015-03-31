@@ -1,3 +1,27 @@
 baseurl = "http://daisy.works/"
 languageCode = "en-us"
 title = "Daisy"
+
+####### Casper theme configuration
+BaseUrl= "http://daisy.works"
+LanguageCode= "en-US"
+Title= "Daisy"
+paginate = 5
+# DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2015"
+
+[params]
+  description = "Software engineer who doesn't know about websites"
+  cover = "images/chickenbutts.jpg"
+  splashColor = "color:black"
+  author = "Daisy Zhou"
+  authorlocation = "San Francisco, California"
+  # authorwebsite = "daisy.works"
+  bio= "???"
+  # logo = "images/logo.png"
+  # googleAnalyticsUserID = "UA-XXXXX-XX"
+  githubName = "daisyzhou"
+  twitterName = "zdxdz"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+####### End Casper theme configuration
